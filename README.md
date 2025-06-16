@@ -6,7 +6,6 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
-
-   2023 XYZ, Inc.
+ 
    2022 XYZ, Inc.
-   Another set of changes
+   
